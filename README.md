@@ -5,7 +5,7 @@ Easily adaptable to your favorite tabloid!
 
 Requires Greasemonkey/Tampermonkey/any userscript extension of choice. Consult extension manual on how to install.
 
+### Demo
 Before: "Ruotsissa liki 60 koronakuolemaa päivässä – Tukholmassa pelätään vieläkin pahempaa"
-After: "Turkulaistalon rappukäytävään putkahti yllättävä lappu meluhäiriöstä – allekirjoituksesta selvisi, että asialla oli oopperalaulaja Karita Mattila"
 
-Much better.
+After: "Turkulaistalon rappukäytävään putkahti yllättävä lappu meluhäiriöstä – allekirjoituksesta selvisi, että asialla oli oopperalaulaja Karita Mattila"
