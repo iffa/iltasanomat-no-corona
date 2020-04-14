@@ -16,7 +16,9 @@ const CORONA_WORDS = [
     'corona',
     'covid-19',
     'karanteeni',
-    'poikkeusolo'
+    'poikkeusolo',
+    'pandemia',
+    'epidemia'
 ];
 
 function removeArticle(article) {
